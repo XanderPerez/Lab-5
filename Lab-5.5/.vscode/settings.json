@@ -1,1 +1,7 @@
-
+{
+    "files.associations": {
+        "fstream": "cpp",
+        "charconv": "cpp",
+        "*.tcc": "cpp"
+    }
+}

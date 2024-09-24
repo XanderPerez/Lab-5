@@ -4,6 +4,12 @@
 
 // Nicholas Mora, Even Jorgens, Xander Perez
 
+//Answer to question 1 for 5.1 exersize 1:
+/*
+When entering the letter “x” is inputted, 
+it breaks the while loop, causing the code to end.
+*/
+
 #include <iostream>
 using namespace std;
 
